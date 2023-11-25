@@ -1,9 +1,5 @@
-Hey there, I'm m6tro! 👋
-Passionate about Quality, Security, and Performance in software development.
-
-🔧 Technologies & Frameworks
-Java TypeScript C# Lua discord.js express.js mongoose mysql vue react nuxt.js HTML5 CSS3 Node.js Apollo GraphQL Bootstrap WebSockets mongodb mysql
-⚙️ DevOps & Tools
-VS Code IntelliJ IDEA Git GitHub Linux Windows
-🌐 Connect with Me
-Discord: zzfxnn
+- 👋 Hi, I’m @m6tro
+- 👀 I’m interested in fivem lua
+- 🌱 I’m currently learning type script
+- 💞️ I’m looking to collaborate on zzFxnn
+- 📫 You can contact me on discord my username ist m6tro.
