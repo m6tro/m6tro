@@ -8,16 +8,9 @@
 
 <h3>🔧 Technologies & Frameworks</h3>
 
-![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![discord.js](https://img.shields.io/badge/discord.js-black?style=for-the-badge&logo=discord)
-![express.js](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
-![vue](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
