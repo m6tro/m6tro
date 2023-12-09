@@ -30,6 +30,6 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **ypeScript, JavaScript, C#, Html, Css3 and Lua**
+- 💬 Ask me about **TypeScript, JavaScript, C#, Html, Css3 and Lua**
 
 - 🏠 You can easily contact me on Discord [m6tro]([https://discord.com/invite/p4TWyft886](https://discord.com/users/1182815355077394582)).
