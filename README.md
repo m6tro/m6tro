@@ -32,4 +32,4 @@
 
 - 💬 Ask me about **ypeScript, JavaScript, C#, Html, Css3 and Lua**
 
-- 🏠 You can easily contact me on Discord [username; m6tro]([https://discord.com/invite/p4TWyft886](https://discord.com/users/1182815355077394582)).
+- 🏠 You can easily contact me on Discord [m6tro]([https://discord.com/invite/p4TWyft886](https://discord.com/users/1182815355077394582)).
