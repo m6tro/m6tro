@@ -1,5 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
+</div>
 <h3>👋 Hey there, I'm m6tro!</h3>
 
 
@@ -22,8 +31,6 @@
 
 **⚙️ DevOps & Tools**
 
-![VsCode](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
