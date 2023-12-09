@@ -47,5 +47,5 @@
 
 <h3>🌐 Connect with Me</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](metro@minera.cc)
+[![Gmail Badge](https://img.shields.io/badge/-metro@minera.cc-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](metro@minera.cc)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/m6tro)
