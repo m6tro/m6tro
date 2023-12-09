@@ -6,11 +6,9 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Metro</h1></summary>
   </ul>
 </div>
-<h3>👋 Hey there, I'm m6tro!</h3>
-
 
 💙 Working on Minera Roleplay...
 🎓 Studiere IT an der <a href="https://www.uni-mainz.de/">Universität Mainz</a>.
