@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **TypeScript, JavaScript, C#, Html, Css3 and Lua**
+- 🔭 I’m currently working on **TypeScript, JavaScript, C#, Html, Css and Lua**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
