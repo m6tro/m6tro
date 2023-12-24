@@ -10,7 +10,7 @@
 
 <div align="center" width="50">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/848248238866825246)](https://discord.com/users/1182815355077394582)
+[![Discord Presence](https://lanyard.cnrad.dev/api/848248238866825246)](https://discord.com/users/1013917115868250243)
 
 
 <!--h2 without bottom border-->
@@ -28,4 +28,4 @@
 
 - 💬 Ask me about **TypeScript, JavaScript, C#, Html, Css3 and Lua**
 
-- 🏠 You can easily contact me on Discord [m6tro]([https://discord.com/invite/p4TWyft886](https://discord.com/users/1182815355077394582)).
+- 🏠 You can easily contact me on Discord [m6tro]([https://discord.com/invite/p4TWyft886](https://discord.com/users/1013917115868250243)).
