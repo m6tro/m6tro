@@ -10,7 +10,7 @@
 
 <div align="center" width="50">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/848248238866825246)](https://discord.com/users/1013917115868250243)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1013917115868250243)](https://discord.com/users/1013917115868250243)
 
 
 <!--h2 without bottom border-->
