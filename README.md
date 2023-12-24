@@ -8,11 +8,9 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<div align="center" width="50">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/848248238866825246)](https://discord.com/users/848248238866825246)
 
 
 <!--h2 without bottom border-->
